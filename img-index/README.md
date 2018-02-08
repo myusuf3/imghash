@@ -24,7 +24,7 @@ environment variable.
 
 ### Usage
 
-    go get github.com/jteeuwen/imghash/img-index
+    go get github.com/myusuf3/imghash/img-index
 
 
 ### License

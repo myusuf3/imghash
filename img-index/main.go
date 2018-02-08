@@ -6,7 +6,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/jteeuwen/imghash"
+	"github.com/myusuf3/imghash"
 	"image"
 	_ "image/gif"
 	_ "image/jpeg"
